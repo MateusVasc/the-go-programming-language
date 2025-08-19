@@ -14,4 +14,6 @@ func main() {
 	fmt.Println("1.2 Command-Line Arguments")
 	osargs.Echo()
 	osargs.RangeEcho()
+	osargs.InvokedEcho()
+	osargs.EachEcho()
 }
